@@ -1,0 +1,27 @@
+{
+  "name": "fc00-launcher",
+  "version": "1.0.0",
+  "description": "Launch and configure cjdns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fc00/node-fc00-launcher.git"
+  },
+  "keywords": [
+    "cjdns",
+    "fc00",
+    "launcher"
+  ],
+  "author": "ansuz",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fc00/node-fc00-launcher/issues"
+  },
+  "homepage": "https://github.com/fc00/node-fc00-launcher#readme",
+  "dependencies": {
+    "bencode": "^0.10.0"
+  }
+}
