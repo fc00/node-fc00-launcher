@@ -1,6 +1,6 @@
 {
   "name": "fc00-launcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Launch and configure cjdns",
   "main": "index.js",
   "scripts": {
